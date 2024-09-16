@@ -148,6 +148,7 @@ If you have FFmpeg and FFprobe installed on your computer, you can skip this ste
 
 #### For Ubuntu/Debian users
 ```bash
+sudo apt update
 sudo apt install ffmpeg
 ```
 #### For MacOS users
